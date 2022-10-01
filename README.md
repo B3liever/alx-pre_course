@@ -1,1 +1,1 @@
- My first readme updated
+coding is fun
